@@ -1,0 +1,3 @@
+# Sistema-de-Gestion-de-Inventario
+
+<strong>El código proporcionado es una secuncia de instrucciones escritas en un proyecto hecho en el framework de django con una aplicación en python conectada a una base de datos para un sistema de gestion de inventario. En resumen, en el usuario podra agregar un producto con su nombre, precio y una cantidad de stock que se agrega a la base de datos lo cual esto permite poder buscar entre todos los productos, ya que el buscar funciona por nombre en caso de que no este el producto que busca por el nombre especificado le va a dar un mensaje que no existe el producto y ademas va a poder eliminar el producto y ese producto no solo se elimina de la pagina de lista_productos.html si no que tambien se elimina de la base de datos.</strong>
